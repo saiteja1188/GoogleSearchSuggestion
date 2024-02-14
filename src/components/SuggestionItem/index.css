@@ -1,0 +1,18 @@
+/* Write your CSS here */
+.list-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  list-style-type: none;
+  padding-right: 15px;
+}
+.title {
+  color: #475569;
+  font-family: roboto;
+  font-size: 12px;
+  font-weight: bold;
+}
+.arrow-icon {
+  height: 15px;
+  width: 15px;
+}
